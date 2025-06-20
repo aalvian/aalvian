@@ -1,4 +1,8 @@
-- 👋 Hi, I'm Alvian
+#👋 Haii
+
+![Banner](img/github-header-image.png)
+
+
 - 👀 I'm interested in Software Engineering and Cloud Engineering
 - 🌱 I'm currently learning Web Development Learning Path
 - 💞️ I'm looking to collaborate on CityCare App project
