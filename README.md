@@ -28,14 +28,16 @@ pengembangan perangkat lunak menggunakan Javascript, Laravel dan MySQL.<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvian&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41%"/>
 </div>
 
+---
+
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph.svg">
   <img alt="pacman animation" src="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
+##
 <p align="center">
   <i>Yang aku kejar bukan sempurna, tapi berguna. 🚀</i>
 </p>
