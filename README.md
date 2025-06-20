@@ -31,7 +31,7 @@ pengembangan perangkat lunak menggunakan Javascript, Laravel dan MySQL.<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph.svg">
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/aalvian/aalvian/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
