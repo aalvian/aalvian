@@ -2,12 +2,12 @@
 
 ![Banner](img/github-header-image.png)
 
-##### 🧑‍💻 Tentang Saya
+#### 🧑‍💻 Tentang Saya
 Saya merupakan mahasiswa aktif Teknologi Rekayasa Perangkat Lunak di 
 Politeknik Negeri Banyuwangi, dengan berbekal tiga tahun pengalaman dalam 
 pengembangan perangkat lunak menggunakan Javascript, Laravel dan MySQL.<br>
 
-##### 🛠 Teknologi Digunakan
+#### 🛠 Teknologi Digunakan
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -22,7 +22,7 @@ pengembangan perangkat lunak menggunakan Javascript, Laravel dan MySQL.<br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-##### 📊 Statistik GitHub
+#### 📊 Statistik GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aalvian&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="52%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvian&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41%"/>
